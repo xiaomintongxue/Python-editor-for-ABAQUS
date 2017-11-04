@@ -3,7 +3,8 @@ This is a open project for ABAQUS users.We want to build an python editor for en
 The API is referenced from http://ivt-abaqusdoc.ivt.ntnu.no:2080/v6.14/books/ker/default.htm
 
 ####开发环境  
---Windows 7  
+--Windows 7  
+
 ####开发语言  
 --Python3.x  
 ####目录结构  
