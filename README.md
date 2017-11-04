@@ -13,7 +13,7 @@ This is a open project for ABAQUS users.We want to build an python editor for en
 --ui  
 　　　--image　　　　//界面涉及的图片或者logo、启动界面　　
    
-　　　--other　　　　//其它使用图片　
+     --other　　　　//其它使用图片　
     
 --log　　　　　　　//日志 
 
