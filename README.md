@@ -6,9 +6,12 @@ The API is referenced from http://ivt-abaqusdoc.ivt.ntnu.no:2080/v6.14/books/ker
 
 --Windows 7  
 
-####开发语言  
---Python3.x  
-####目录结构  
+####开发语言   
+
+--Python3.x   
+
+####目录结构   
+
 --README.md　　　　//说明  
 
 --app　　　　　　　//本项目应用  
